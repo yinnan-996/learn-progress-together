@@ -1,4 +1,4 @@
-package com.yinan.progress;
+package com.yinnan.progress;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
